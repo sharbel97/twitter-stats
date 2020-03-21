@@ -16,7 +16,7 @@ Here I use the method cursor() which returns an object that you can iterate or l
 * The text of the tweet.
 * Who sent the tweet.
 * The date of the tweet was sent. 
-and more.* [source](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
+* And more.* [source](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
 
 ```python
 import Tweepy
